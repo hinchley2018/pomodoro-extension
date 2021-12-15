@@ -1,0 +1,15 @@
+{
+    "name": "LinkedIn Post",
+    "description": "Post a message to LinkedIn",
+    "version": "0.1",
+    "manifest_version": 2,
+    "icons": {
+        "16": "icons/LinkedInExtensionIcon.png",
+        "32": "icons/LinkedInExtensionIcon.png",
+        "48": "icons/LinkedInExtensionIcon.png",
+        "128": "icons/LinkedInExtensionIcon.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
